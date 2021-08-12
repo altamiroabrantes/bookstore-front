@@ -25,7 +25,7 @@ export class CategoriaService {
   }
 
   mensagem(str: String): void {
-    this._snack.open(`${str}`, `OK`, {
+    this._snack.open(`${str}`, 'OK', {
       horizontalPosition: 'end',
       verticalPosition: 'top',
       duration: 3000
