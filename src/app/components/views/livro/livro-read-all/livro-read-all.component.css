@@ -1,0 +1,42 @@
+.content {
+    width: 90%;
+    margin: 1.4rem auto auto auto;
+}
+
+.tittle {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.tittle h1 {
+    font-size: 2rem;
+    color: black;
+    font-weight: 500;
+}
+
+button {
+    margin-bottom: .8rem;
+}
+
+.table {
+    width: 100%;
+}
+
+.livros {
+    color: blue;
+    margin-left: .6rem;
+}
+
+.edit {
+    color: chocolate;
+}
+
+.delete {
+    color: red;
+    margin-left: .5rem;
+}
+
+.mat-header {
+    width: 5rem;
+}
+
